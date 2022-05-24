@@ -1,0 +1,2 @@
+# spike
+Experimenting with AGPL
